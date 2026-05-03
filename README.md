@@ -20,7 +20,7 @@
 			<img src="https://github-readme-stats.vercel.app/api?username=HIMA-HIMAZIN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMA-HIMAZIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMA-HIMAZIN&layout=compact&theme=radical&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5&hide=Shell,Dockerfile,Makefile&cache_seconds=21600" alt="Top Languages" />
 		</td>
 	</tr>
 </table>
