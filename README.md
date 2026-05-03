@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HIMA-HIMAZIN/HIMA-HIMAZIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HEY! I'm HIMAZIN! 👋
 
-Here are some ideas to get you started:
+### 暇を持て余そう〜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+	<a href="https://github.com/HIMA-HIMAZIN">
+		<img src="https://img.shields.io/badge/Follow-HIMA--HIMAZIN-ff6b6b?style=for-the-badge&logo=github" alt="Follow HIMA-HIMAZIN" />
+	</a>
+</p>
+
+</div>
+
+## Stats
+
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=HIMA-HIMAZIN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMA-HIMAZIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+		</td>
+	</tr>
+</table>
